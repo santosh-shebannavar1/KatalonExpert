@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>dd8f1b65-2dcf-4a70-ae1a-3604ef0e529e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//yt-icon[@id='icon']/span/div)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Shorts Shorts&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6e6b613-922e-4199-bb89-e4f5b78eb02a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ytd-app[1]/div[@id=&quot;content&quot;]/ytd-mini-guide-renderer[@class=&quot;style-scope ytd-app&quot;]/div[@id=&quot;items&quot;]/ytd-mini-guide-entry-renderer[@class=&quot;style-scope ytd-mini-guide-renderer&quot;]/a[@id=&quot;endpoint&quot;]/yt-icon[@id=&quot;icon&quot;]/span[@class=&quot;yt-icon-shape style-scope yt-icon yt-spec-icon-shape&quot;]/div[1]</value>
+      <webElementGuid>5dbb1026-1649-415d-86e7-22b3b88ee6a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//yt-icon[@id='icon']/span/div)[2]</value>
+      <webElementGuid>27e1275f-798f-43e6-9188-b47f58a8c82c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::div[4]</value>
+      <webElementGuid>14e94c2e-b44b-4012-be26-1e0f1e49c823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shorts'])[1]/preceding::div[1]</value>
+      <webElementGuid>f5cdba2f-9f44-46ba-ad68-a304d8943035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-mini-guide-entry-renderer[2]/a/yt-icon/span/div</value>
+      <webElementGuid>244e9a90-c600-4631-9a92-ba93cda71770</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

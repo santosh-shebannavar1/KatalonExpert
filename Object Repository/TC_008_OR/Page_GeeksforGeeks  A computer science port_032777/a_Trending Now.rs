@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Trending Now</name>
+   <tag></tag>
+   <elementGuidId>3a78fafd-45c0-4d6a-9a88-7ae202a373d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondarySubHeader']/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Trending Now&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a199239e-8549-4c54-a57a-c6b187ee27cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.geeksforgeeks.org/trending/</value>
+      <webElementGuid>fc619647-6aee-4fb1-a324-fd5ab14167fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>7e149290-0dca-4244-81aa-5472278408cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Trending Now</value>
+      <webElementGuid>9eaaa299-c3c1-44db-b4c1-cedf6ce9a471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondarySubHeader&quot;)/ul[@class=&quot;containerSubheader&quot;]/li[1]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>3f33c774-a60f-4b93-9525-7d9f3a63fa44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondarySubHeader']/ul/li/a</value>
+      <webElementGuid>2be0ca2b-5e93-4864-a787-418b3bd2391c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Trending Now')]</value>
+      <webElementGuid>7b4b628b-92c5-45d5-b891-735882eff384</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Language'])[1]/following::a[1]</value>
+      <webElementGuid>8aa496b4-16e3-4a16-a8be-3feb3dd5778c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Contests and Events'])[1]/following::a[1]</value>
+      <webElementGuid>0464bc34-d60a-48d1-af27-18a418483d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DSA'])[1]/preceding::a[1]</value>
+      <webElementGuid>196a58f3-d4c1-4f60-8453-35e0a367e567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Tech'])[1]/preceding::a[2]</value>
+      <webElementGuid>ba5a36eb-9177-48b1-a851-c374dcc677f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Trending Now']/parent::*</value>
+      <webElementGuid>96227051-2259-4ee9-acac-03af18ecec0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.geeksforgeeks.org/trending/')]</value>
+      <webElementGuid>be2cc2f4-9ad9-4df0-af72-283f87563b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a</value>
+      <webElementGuid>f47a29b3-dec6-47e6-9ab3-7f72ab7f5e8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.geeksforgeeks.org/trending/' and (text() = 'Trending Now' or . = 'Trending Now')]</value>
+      <webElementGuid>6557c1c4-6965-4946-bba7-a7524ab77fe7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Machine Learning</name>
+   <tag></tag>
+   <elementGuidId>92c59d2f-7677-43e3-8ee4-0f8475201887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(8) > a.link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondarySubHeader']/ul/li[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#secondarySubHeader >> internal:role=link[name=&quot;Machine Learning&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>602d08ae-8ae9-4bda-b22a-105f0ef913fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.geeksforgeeks.org/machine-learning/</value>
+      <webElementGuid>a6b681fa-da09-4dc7-8ba9-224582451ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>335c5377-1eeb-42ed-bf89-92986ed32d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Machine Learning</value>
+      <webElementGuid>e600d193-6df7-45ed-8f7a-50698276e91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondarySubHeader&quot;)/ul[@class=&quot;containerSubheader&quot;]/li[8]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>aa3bf3b2-26dc-4eeb-8c1c-8b358dbd9d27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondarySubHeader']/ul/li[8]/a</value>
+      <webElementGuid>14d4f00b-afc6-44c2-a663-15313cf0365b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Machine Learning')]</value>
+      <webElementGuid>507c9472-5133-46fc-bb20-c5a3d2f274c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Python'])[2]/following::a[1]</value>
+      <webElementGuid>4520693e-594c-4cde-a521-2dcf6263bf4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Problem'])[1]/following::a[2]</value>
+      <webElementGuid>df5da094-595e-466a-b7ca-07e757811ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript'])[1]/preceding::a[1]</value>
+      <webElementGuid>dbb59fc9-8c7a-4a57-b4c9-3745267bd605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System Design'])[1]/preceding::a[2]</value>
+      <webElementGuid>ad344717-8b9a-4238-82e4-21491af52575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Machine Learning']/parent::*</value>
+      <webElementGuid>687d24a7-9693-452b-b156-b5846d143962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.geeksforgeeks.org/machine-learning/')]</value>
+      <webElementGuid>f2c06e0d-a595-4350-a254-b42339dd412b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>abfcadc7-27fc-4410-943a-ee198e4e8071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.geeksforgeeks.org/machine-learning/' and (text() = 'Machine Learning' or . = 'Machine Learning')]</value>
+      <webElementGuid>37f87a7c-a869-435b-b15c-0857b197eb32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>342541d3-f0d9-4d57-a3e6-7725492049e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//yt-icon[@id='icon']/span/div)[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Subscriptions&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0cef71ec-1a15-4cb5-b497-ec3da50645bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/ytd-app[1]/div[@id=&quot;content&quot;]/ytd-mini-guide-renderer[@class=&quot;style-scope ytd-app&quot;]/div[@id=&quot;items&quot;]/ytd-mini-guide-entry-renderer[@class=&quot;style-scope ytd-mini-guide-renderer&quot;]/a[@id=&quot;endpoint&quot;]/yt-icon[@id=&quot;icon&quot;]/span[@class=&quot;yt-icon-shape style-scope yt-icon yt-spec-icon-shape&quot;]/div[1]</value>
+      <webElementGuid>71361052-d060-4d1b-84b6-cebc4248b163</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//yt-icon[@id='icon']/span/div)[3]</value>
+      <webElementGuid>5fb3f9b3-9f6d-4645-907d-83dba80e25c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shorts'])[1]/following::div[4]</value>
+      <webElementGuid>d6c39230-858c-4d66-9ece-c92fc32068de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscriptions'])[1]/preceding::div[1]</value>
+      <webElementGuid>d22fbb04-1520-4b23-8bc8-25fa5b07fd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-mini-guide-entry-renderer[3]/a/yt-icon/span/div</value>
+      <webElementGuid>e5a33c39-137f-423b-a4d4-dc6bdad5ec33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

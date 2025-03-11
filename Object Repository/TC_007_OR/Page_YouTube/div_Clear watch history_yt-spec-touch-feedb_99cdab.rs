@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Clear watch history_yt-spec-touch-feedb_99cdab</name>
+   <tag></tag>
+   <elementGuidId>1f466559-12d1-4623-ad99-d64ac7907920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.yt-spec-button-shape-next.yt-spec-button-shape-next--text.yt-spec-button-shape-next--call-to-action.yt-spec-button-shape-next--size-m > yt-touch-feedback-shape > div.yt-spec-touch-feedback-shape.yt-spec-touch-feedback-shape--touch-response > div.yt-spec-touch-feedback-shape__fill</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//yt-button-renderer[@id='confirm-button']/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Clear watch history&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e42091d7-4313-43c9-b2a5-448d6a508cf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>yt-spec-touch-feedback-shape__fill</value>
+      <webElementGuid>58e3a9ea-30c8-4d73-9e82-f4a44ac3033a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;confirm-button&quot;)/yt-button-shape[@class=&quot;style-scope ytd-popup-container&quot;]/button[@class=&quot;yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m&quot;]/yt-touch-feedback-shape[1]/div[@class=&quot;yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response&quot;]/div[@class=&quot;yt-spec-touch-feedback-shape__fill&quot;]</value>
+      <webElementGuid>f85d67fb-bb6b-4401-bb0e-d165d8750a4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//yt-button-renderer[@id='confirm-button']/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      <webElementGuid>6285b8d2-5a32-4f4a-8dcd-b7ea1e45d6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//yt-button-renderer[3]/yt-button-shape/button/yt-touch-feedback-shape/div/div[2]</value>
+      <webElementGuid>ee22fcd1-65ef-42ae-8c47-cd8736e60ec2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

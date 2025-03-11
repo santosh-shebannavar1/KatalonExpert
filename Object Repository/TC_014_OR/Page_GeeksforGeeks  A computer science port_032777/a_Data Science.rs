@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Data Science</name>
+   <tag></tag>
+   <elementGuidId>c1b6ed51-c26d-4f21-80fd-a79207b16559</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > a.link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondarySubHeader']/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Data Science&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>751a384e-b151-4ac3-a6ce-45d484ab61b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&amp;itm_medium=gfg_submenu&amp;itm_campaign=DS_Submenu</value>
+      <webElementGuid>8a5ea4fc-23e5-45e1-8e2d-e068aec45ff9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>697dc927-623b-4bfe-a42b-cd222c31735f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Science</value>
+      <webElementGuid>94e68823-9442-4b0d-9b84-3ec1fbea5749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondarySubHeader&quot;)/ul[@class=&quot;containerSubheader&quot;]/li[5]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>0b6ca6fe-70a6-40f8-9919-ae09a17c9a5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondarySubHeader']/ul/li[5]/a</value>
+      <webElementGuid>ad2d2afe-2314-4940-9c1e-5135ef769a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Data Science')])[2]</value>
+      <webElementGuid>3fb1f4b6-1d0c-4808-88fb-06fec62e665c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foundational Courses'])[1]/following::a[1]</value>
+      <webElementGuid>cedcd772-eac3-4ca9-9e5f-7c44e24bf2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Tech'])[1]/following::a[2]</value>
+      <webElementGuid>73c7ea2b-8269-4fc7-9bd8-16d3f830476d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Problem'])[1]/preceding::a[1]</value>
+      <webElementGuid>44beb0a9-a74a-4a9b-8e59-d95b73a7cf30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Python'])[2]/preceding::a[2]</value>
+      <webElementGuid>6ff36d31-b825-44e2-8733-d7a2eeb7c192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data Science']/parent::*</value>
+      <webElementGuid>bd417b0a-f1ef-4544-92c4-2d68483639c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&amp;itm_medium=gfg_submenu&amp;itm_campaign=DS_Submenu')]</value>
+      <webElementGuid>de6cc2c9-4305-4fb0-8ea6-b9433ee5dcab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[5]/a</value>
+      <webElementGuid>80a7b65c-4451-44ef-9320-721e25d28115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&amp;itm_medium=gfg_submenu&amp;itm_campaign=DS_Submenu' and (text() = 'Data Science' or . = 'Data Science')]</value>
+      <webElementGuid>c3625e10-aca5-4be4-ae7c-280f576ad889</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

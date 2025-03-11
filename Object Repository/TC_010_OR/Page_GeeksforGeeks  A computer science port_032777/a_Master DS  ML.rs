@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Master DS  ML</name>
+   <tag></tag>
+   <elementGuidId>5e582bc1-b0b7-4788-a04a-404f063a408b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.SearchChip_searchChip__oKfVN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp']/div[2]/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Master DS &amp; ML&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c88c092d-0b5b-488f-a5d4-1adcb05b74e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>17b54438-f433-4a9e-ada7-707fe657f9b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchChip_searchChip__oKfVN</value>
+      <webElementGuid>a27cecac-77d0-4174-bcfe-d57ffd50639c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.geeksforgeeks.org/courses/data-science-live/?utm_source=geeksforgeeks&amp;utm_medium=homepage_gfgpremium&amp;utm_campaign=inbound_promotions</value>
+      <webElementGuid>a750105f-4986-4beb-92ce-9526878ac8b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master DS &amp; ML</value>
+      <webElementGuid>1cc98316-c65a-4ff4-a3ff-3a69ed4d4d9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data-mode&quot;)/div[@id=&quot;comp&quot;]/div[@class=&quot;index_homePageContainer__H8GJD&quot;]/div[@class=&quot;HomePageSearchContainer_homePageSearchContainer__bNc8c&quot;]/div[@class=&quot;SearchContainerChips_searchContainerChips__PnpvD&quot;]/a[@class=&quot;SearchChip_searchChip__oKfVN&quot;]</value>
+      <webElementGuid>c6c99301-dbcc-4074-942b-08dfd107f8b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp']/div[2]/div/div[3]/a</value>
+      <webElementGuid>79a508c5-c28e-4918-a6c3-66f4f2e20a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Master DS &amp; ML')]</value>
+      <webElementGuid>170ede4d-6e01-48f4-9be7-89ee0ba30c97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hello, What Do You Want To Learn?'])[1]/following::a[1]</value>
+      <webElementGuid>2d1b2454-cb17-467c-95be-981821fce0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Projects'])[1]/following::a[1]</value>
+      <webElementGuid>8ba6624d-a2ba-416f-824e-feed16803ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses @90% Refund'])[1]/preceding::a[1]</value>
+      <webElementGuid>64f54da6-9427-4323-86a3-e51082302b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full Stack Live Classes'])[1]/preceding::a[2]</value>
+      <webElementGuid>9335243e-5d9a-4caa-96dd-ac4afe904ddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Master DS &amp; ML']/parent::*</value>
+      <webElementGuid>09a370db-bee9-41c6-be69-35992f0a5468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.geeksforgeeks.org/courses/data-science-live/?utm_source=geeksforgeeks&amp;utm_medium=homepage_gfgpremium&amp;utm_campaign=inbound_promotions')]</value>
+      <webElementGuid>e7313291-a592-4759-82e8-d23b3b39eb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/a</value>
+      <webElementGuid>a257450e-b03b-40a5-977d-6aac42bb1704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.geeksforgeeks.org/courses/data-science-live/?utm_source=geeksforgeeks&amp;utm_medium=homepage_gfgpremium&amp;utm_campaign=inbound_promotions' and (text() = 'Master DS &amp; ML' or . = 'Master DS &amp; ML')]</value>
+      <webElementGuid>d12af302-c6eb-4b13-b5a5-4ab22deb2e0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Foundational Courses</name>
+   <tag></tag>
+   <elementGuidId>2fedd145-7a18-4793-9c00-b9ab1e49ae95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a.link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='secondarySubHeader']/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Foundational Courses&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>50db6232-6313-429a-9bbf-0475a943739b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.geeksforgeeks.org/courses/category/programming-languages?courseFeeType=paid&amp;utm_source=geeksforgeeks&amp;utm_medium=sub_header&amp;utm_campaign=courses</value>
+      <webElementGuid>49e5fce8-c4b9-498e-b791-90cf325ce328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link</value>
+      <webElementGuid>33829b53-3866-4098-b61c-9560b9164f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Foundational Courses</value>
+      <webElementGuid>440b36ba-f796-4a5d-ae84-45f5d335f46a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secondarySubHeader&quot;)/ul[@class=&quot;containerSubheader&quot;]/li[4]/a[@class=&quot;link&quot;]</value>
+      <webElementGuid>ee6744d3-e202-4830-a3d3-d15f446e3b3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='secondarySubHeader']/ul/li[4]/a</value>
+      <webElementGuid>b83a3fba-ee6d-45be-9b4b-46acf26a558d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Foundational Courses')]</value>
+      <webElementGuid>bfbc1b5f-518b-4438-a59e-b5b41a3bdd91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Tech'])[1]/following::a[1]</value>
+      <webElementGuid>2428a213-1060-4417-a09d-0d9088e6abc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DSA'])[1]/following::a[2]</value>
+      <webElementGuid>0ec94b0d-0f43-4104-bac6-650bea43198c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Science'])[1]/preceding::a[1]</value>
+      <webElementGuid>b3d6ec3b-1ce5-4066-8bbe-bba57ffd0e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Problem'])[1]/preceding::a[2]</value>
+      <webElementGuid>14cfa079-c75c-421b-b856-fda7d9e2bb5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Foundational Courses']/parent::*</value>
+      <webElementGuid>5a4436e3-6b49-4e2b-a756-12e4be519a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.geeksforgeeks.org/courses/category/programming-languages?courseFeeType=paid&amp;utm_source=geeksforgeeks&amp;utm_medium=sub_header&amp;utm_campaign=courses')]</value>
+      <webElementGuid>670cc544-96eb-4546-9067-019de5a8f8e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>8ae19100-9972-4dfa-a510-c666883af0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.geeksforgeeks.org/courses/category/programming-languages?courseFeeType=paid&amp;utm_source=geeksforgeeks&amp;utm_medium=sub_header&amp;utm_campaign=courses' and (text() = 'Foundational Courses' or . = 'Foundational Courses')]</value>
+      <webElementGuid>bbe12f96-d91d-4b16-97c0-fe8ba4da14f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

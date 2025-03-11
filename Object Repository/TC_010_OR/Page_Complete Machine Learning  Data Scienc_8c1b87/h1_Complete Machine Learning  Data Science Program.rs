@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Complete Machine Learning  Data Science Program</name>
+   <tag></tag>
+   <elementGuidId>98508275-8774-4c72-ad21-4b2f9230459f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.courseCard_ctitle__MaKnW</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[4]/div/section/div[2]/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Complete Machine Learning &amp; Data Science Program&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>f3d6e4e5-ce04-417d-bea6-5d021fa1fd43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>courseCard_ctitle__MaKnW</value>
+      <webElementGuid>77642370-744c-4d35-88cb-563dbed6360e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Complete Machine Learning &amp; Data Science Program</value>
+      <webElementGuid>accf3256-5ee4-40cd-9378-83457669c54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;jsx-5b3f6ef56b8bfbc9 coursesSlug_mainContainer__xE2bP coursesSlug_mainContainerThree90BackgroundImage__ShNNM&quot;]/div[@class=&quot;jsx-5b3f6ef56b8bfbc9 coursesSlug_slugWrapper__Eaz3j&quot;]/section[@class=&quot;courseCard_cardContainer__fwXTj&quot;]/div[@class=&quot;courseCard_courseHeading__fP3yw&quot;]/div[1]/h1[@class=&quot;courseCard_ctitle__MaKnW&quot;]</value>
+      <webElementGuid>ff2e5c1d-207f-488c-b841-2dc04cdccb02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[4]/div/section/div[2]/div/h1</value>
+      <webElementGuid>e81bc5e6-3600-47fc-bbb0-a3d13ba7c560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live'])[1]/following::h1[1]</value>
+      <webElementGuid>0d94ea7a-8418-426e-a76c-d54cb1ea1bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Courses'])[2]/following::h1[1]</value>
+      <webElementGuid>7156a94e-b6c0-4c4d-867f-9f12d24e6f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Course'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ddb9c876-96db-4ed6-96c9-66d39c6a5007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complete Machine Learning &amp; Data Science Program'])[3]/preceding::h1[1]</value>
+      <webElementGuid>0c66aefa-c027-4f79-af61-39a4ea0c0cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>29c929f1-e464-4edb-b921-a9f1e377e77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Complete Machine Learning &amp; Data Science Program' or . = 'Complete Machine Learning &amp; Data Science Program')]</value>
+      <webElementGuid>30dce78a-04bc-4306-a53a-a9b1476338b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
